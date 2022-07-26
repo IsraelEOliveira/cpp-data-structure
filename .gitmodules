@@ -1,0 +1,3 @@
+[submodule "graph-theory"]
+	path = graph-theory
+	url = ./graph-theory/
